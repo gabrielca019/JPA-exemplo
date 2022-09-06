@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS aulajpa;
+CREATE DATABASE IF NOT EXISTS aulajpa;
+USE aulajpa;
+
+SELECT * FROM pessoa;
